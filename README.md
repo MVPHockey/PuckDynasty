@@ -1,6 +1,6 @@
-# 🏒 Hockey Simulation League (HSL)
+# 🏒 Puck Dynasty Sim (PDS)
 
-Welcome to the **Hockey Simulation League (HSL)**! This is a comprehensive web-based platform designed for hockey enthusiasts to create, manage, and participate in their own simulated hockey leagues. Commissioners control the league, while General Managers (GMs) lead their teams through multiple tiers of play, including Pro, Farm, and AI-managed Junior leagues. All the thrilling game action is delivered through detailed, real-time textual play-by-play.
+Welcome to the **Puck Dynasty Sim (PDS)**! This is a comprehensive web-based platform designed for hockey enthusiasts to create, manage, and participate in their own simulated hockey leagues. Commissioners control the league, while General Managers (GMs) lead their teams through multiple tiers of play, including Pro, Farm, and AI-managed Junior leagues. All the thrilling game action is delivered through detailed, real-time textual play-by-play.
 
 ## ✨ Core Features
 
